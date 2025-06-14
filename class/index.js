@@ -1,4 +1,5 @@
 const {sum}=require("./sum")
 const {multiply}=require("./multiply")
+const {subtract}=require("./subtract")
 
-module.exports={sum,multiply}
+module.exports={sum,multiply,subtract}
